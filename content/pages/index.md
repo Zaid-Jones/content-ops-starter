@@ -86,7 +86,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: 'Better your time, speed and mileage with us!'
+    subtitle: Better your overall running experiance !
     items:
       - type: FeaturedItem
         title: 500k
