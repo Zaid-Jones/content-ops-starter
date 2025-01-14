@@ -118,7 +118,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Distance.
-        subtitle: How far do you want to be running ?
+        subtitle: How far do I want to be running ?
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
