@@ -219,11 +219,19 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      At Pace Provenance, we're proud to have a team of experienced running
+      experts who are dedicated to helping you achieve your running goals. With
+      years of collective experience in the industry, our team has the knowledge
+      and expertise to cater to all your needs, whether you're a seasoned
+      marathon runner or just starting out. From personalized coaching and
+      training plans to expert advice and guidance, we'll provide you with the
+      support and resources you need to take your running to the next level. Our
+      goal is to help you become the best runner you can be, and we're committed
+      to helping you every step of the way. Whether you're looking to improve
+      your speed, increase your endurance, or simply enjoy the benefits of
+      running, we're here to help you achieve your goals and reach your full
+      potential.
     media:
       title: Title of the video
       url: vvvvvvv
