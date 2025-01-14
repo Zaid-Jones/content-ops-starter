@@ -86,7 +86,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Better your overall running experiance !
+    subtitle: Better your overall running experience b focusing on three key aspects
     items:
       - type: FeaturedItem
         title: 500k
