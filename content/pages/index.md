@@ -89,7 +89,7 @@ sections:
     subtitle: 'Better your overall running experience by focusing on three key aspects:'
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Speed.
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
