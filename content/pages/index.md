@@ -111,7 +111,7 @@ sections:
             textAlign: left
         image:
           type: ImageBlock
-          altText: Lightning bolt symbol on red background
+          altText: speed
           elementId: ''
           url: /images/icon1.svg
           styles:
