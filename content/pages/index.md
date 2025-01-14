@@ -141,10 +141,7 @@ sections:
         type: FeaturedItem
       - title: Training intensity
         subtitle: What would a balanced training routine look like for me ?
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "**training intensity**\_is about finding the right balance between pushing yourself and allowing for recovery. Are you looking to increase your endurance, build speed, or boost your overall fitness?\n\n"
         image:
           url: /images/icon3.svg
           altText: Featured icon three
