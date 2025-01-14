@@ -80,7 +80,7 @@ sections:
         justifyContent: center
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: The Big 3
       color: text-dark
       styles:
         self:
