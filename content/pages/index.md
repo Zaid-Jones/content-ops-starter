@@ -10,10 +10,35 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: 'ABOUT US:'
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Whether you're a seasoned marathon runner or just starting out, our
+      platform is designed to help you stay motivated and on track.
+
+
+      By inputting your running times for various distances, you'll be able to
+      see how you stack up against your age group and receive personalized tips
+      and advice to help you reach your goals
+
+
+      Plus, you can set and track your current and goal times, and even print
+      out your progress in a convenient format.
+
+
+      Our community is dedicated to supporting and encouraging runners of all
+      levels, so take the first step towards crushing your running goals! 
+
+
+      Start tracking your progress today!
+
+
+
+
+
+
+
+
+
+
     actions:
       - label: Get started
         altText: ''
