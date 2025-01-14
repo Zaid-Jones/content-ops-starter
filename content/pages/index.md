@@ -91,10 +91,10 @@ sections:
       - type: FeaturedItem
         title: Speed.
         subtitle: how fast do I want to be Running ?
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Do you want to focus on sprinting short distances or maintaining a
+          steady pace for longer runs ?
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
