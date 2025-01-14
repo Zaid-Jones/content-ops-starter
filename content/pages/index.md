@@ -86,7 +86,9 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: 'Better your overall running experience by focusing on three key aspects:'
+    subtitle: >-
+      By balancing these three aspects, you'll be able to create a well-rounded
+      training plan that helps you achieve your running goals.:
     items:
       - type: FeaturedItem
         title: Speed.
