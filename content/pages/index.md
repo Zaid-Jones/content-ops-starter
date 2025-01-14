@@ -212,7 +212,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: How we can help you ?
+      text: How can we help you ?
       color: text-dark
       styles:
         self:
