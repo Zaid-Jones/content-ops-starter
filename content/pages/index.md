@@ -119,7 +119,7 @@ sections:
               borderRadius: x-large
       - title: Distance.
         subtitle: How far do I want to be running ?
-        text: "**Distance**\_is all about setting realistic goals, whether it's running a 5K, 10K, or marathon. What's your goal ?\n"
+        text: "**Distance**\_is all about setting realistic goals, whether it's running a 5K, 10K, or marathon. \n\nWhat's your goal ?\n"
         image:
           url: /images/icon2.svg
           altText: Featured icon two
