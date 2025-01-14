@@ -90,7 +90,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Speed.
-        subtitle: how fast do I want to be Running ?
+        subtitle: How fast do I want to be Running ?
         text: >+
           Do you want to focus on sprinting short distances or maintaining a
           steady pace for longer runs ?
