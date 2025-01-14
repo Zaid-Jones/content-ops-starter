@@ -90,7 +90,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Speed.
-        subtitle: Numbers Done
+        subtitle: how fast do you want to be going ?
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
