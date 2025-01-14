@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: 'Welcome To Pace '
+      label: Welcome To Pace Provenance
       color: text-primary
       type: Badge
     elementId: ''
